@@ -4,7 +4,7 @@
 
 This project is based on shortest path finding between cities using Dijkstra and A* algorithms. It helps in finding the best route from source city to destination city by considering distance and traffic conditions.
 
-A graphical user interface is created using Python Tkinter for easy interaction. The road network is shown as a graph where cities are nodes and roads are edges. :contentReference[oaicite:0]{index=0}
+A graphical user interface is created using Python Tkinter for easy interaction. The road network is shown as a graph where cities are nodes and roads are edges. 
 
 ---
 
